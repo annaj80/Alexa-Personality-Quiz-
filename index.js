@@ -40,7 +40,7 @@ const UNDECISIVE_RESPONSES = [
 ];
 const RESULT_MESSAGE = "The time has come! The planets have aligned and your spirit animal is "; // the name of the result is inserted here.
 const RESULT_MESSAGE_SHORT = "Your spirit animal is"; // the name of the result is inserted here.
-const PLAY_AGAIN_REQUEST = "The heavens have spoken. Do you want play again?";
+const PLAY_AGAIN_REQUEST = "The heavens have spoken. Do you want to play again?";
 
 const resultList = {
   result1: {
@@ -66,8 +66,8 @@ const resultList = {
   result3: {
     name: "a Polar Bear",
     display_name: "Polar Bear",
-    audio_message: "Polar bears are strong magestic animals and surprisingly strong swimmers.",
-    description: "Your friends know you by your hairy palms and the way you easily blend into the background. You're likey to enjoy swimming in frigid waters. You prefer your steaks extoic and extra rare.",
+    audio_message: "Polar bears are strong majestic animals and surprisingly strong swimmers.",
+    description: "Your friends know you by your hairy palms and the way you easily blend into the background. You're likely to enjoy swimming in frigid waters. You prefer your steaks exotic and extra rare.",
     img: {
       //largeImageUrl: "https://coach-courses-us.s3.amazonaws.com/public/courses/voice/Example%20images%20skill%203/Anodorhynchus_hyacinthinus.1200.jpg"//
       largeImageUrl: "polar bear.jpg",
@@ -77,7 +77,7 @@ const resultList = {
     name: "a Siberian Tiger",
     display_name: "Siberian Tiger",
     audio_message: "The Siberian Tiger is the largest and strongest feline in all of the world.",
-    description: "You adapt easily to your enviroment, but if not, you make sure your enviroment adapts to you. You are likely to value profits over people. Since others fear you, you enjoy a soliatry lifestyle.",
+    description: "You adapt easily to your environment, but if not, you make sure your environment adapts to you. You are likely to value profits over people. Since others fear you, you enjoy a solitary lifestyle.",
     img: {
       //largeImageUrl: "https://coach-courses-us.s3.amazonaws.com/public/courses/voice/Example%20images%20skill%203/Male_goat.1200.jpg"//
       largeImageUrl: "siberian tiger.jpg",
